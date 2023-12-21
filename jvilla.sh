@@ -1,1 +1,1 @@
-echo "Hello World! and Mars"
+echo "Hello World"
